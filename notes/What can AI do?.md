@@ -3,13 +3,14 @@ most sophisticated calculating machines in human history. Some can perform whatâ
 Others, using calculations arranged in ways inspired by neurons in the human brain, can even perform deep learning with multiple levels
 of calculations.
 
-$$ WHAT IS MACHINE LEARNING $$
+What Is Machine Learning?
 
 To improve the performance of the machine, you expose it to more data to ensure that the machine is trained on numerous characteristics.
 The more data you provide for the algorithm, the better the model gets. By providing more data and adjusting parameters, the machine
 minimizes errors by repetitive guess work.
 
-$$ WHAT IS DEEP LEARNING $$
+
+What Is Deep Learning?
 
 Deep learning models eliminate the need for feature extractions. For your work in the product department, you decide to use algorithms
 based on deep learning to sort fruit by removing the need to define what each product looks like. Feature extraction is built into the 
