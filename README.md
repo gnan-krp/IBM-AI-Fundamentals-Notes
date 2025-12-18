@@ -1,5 +1,3 @@
-# IBM-AI-Fundamentals-Notes
-
 # IBM AI Fundamentals – Learning Notes
 
 This repository contains my notes, explanations, and reflections from the
