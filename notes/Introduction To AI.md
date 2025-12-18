@@ -2,9 +2,6 @@ Artificial Intelligence refers to the ability of a machine to analyse the data a
 that AI will replace humans, but this is not the case. AI will not replace humans but will add another dimension to HUMAN THINKING i.e. AI wil
 add more value to the our(human) judgement.
 
-
-$$ DIFFERENCE BETWEEN ARTIFICIAL INTELLIGENCE AND AUGMENTED INTELLIGENCE $$
-
 What is Augmented Intelligence?
 
 Artificial Intelligence and Augmented Intelligence, both terms share the same objective, 
