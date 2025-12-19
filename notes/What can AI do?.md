@@ -16,3 +16,12 @@ Deep learning models eliminate the need for feature extractions. For your work i
 based on deep learning to sort fruit by removing the need to define what each product looks like. Feature extraction is built into the 
 process without human input. Once you have provided the deep learning model with pictures, it processes the images through different
 layers of neural networks. The layers can then learn an implicit representation of the raw data on their own.
+
+What Is Reinforcement Learning?
+
+Reinforcement learning is a machine learning model similar to supervised learning, but the algorithm isn’t trained using sample data.
+This model learns as it goes by using trial and error. A sequence of successful outcomes is reinforced to develop the best
+recommendation for a given problem. The foundation of reinforcement learning is rewarding the “right” behavior and punishing the 
+“wrong” behavior.
+
+You might be wondering, what does it mean to "reward" a machine? Good question! Rewarding a machine means that you give your agent positive reinforcement for performing the "right" thing and negative reinforcement for performing the "wrong" things. 
