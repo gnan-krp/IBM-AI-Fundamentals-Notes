@@ -39,3 +39,11 @@ Text Label (via NLP)
 Image of fruit
 → Detected object: Apple
 → NLP label: "Apple"
+
+---
+
+### Applications
+- Self-driving cars
+- Medical imaging
+- Security surveillance
+- Assistive technologies
