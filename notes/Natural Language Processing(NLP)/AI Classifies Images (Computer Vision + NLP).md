@@ -1,16 +1,3 @@
-
----
-
-### Key Takeaways
-- NLP enables **real-time communication**
-- Chatbots are widely used in:
-  - Customer support
-  - Banking
-  - Healthcare
-- Performance depends on quality training data
-
----
-
 ## 📘 Module 4: AI Classifies Images (Computer Vision + NLP)
 
 ### What is Image Classification?
